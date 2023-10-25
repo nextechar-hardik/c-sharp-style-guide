@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [The Official arway.ai C# Style Guide](#https://www.arway.ai/)
+- [The Official arway.ai C# Style Guide](https://www.arway.ai/)
   - [Inspiration](#inspiration)
   - [Nomenclature](#nomenclature)
     - [Namespaces](#namespaces)
