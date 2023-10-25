@@ -39,7 +39,7 @@ Our overarching goals are **conciseness**, **readability** and **simplicity**. A
 
 ## Inspiration
 
-This style guide is based Microsoft Guide (#https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names#naming-rules). 
+[This style guide is based Microsoft Guide](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names#naming-rules). 
 
 
 
