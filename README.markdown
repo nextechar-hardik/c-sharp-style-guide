@@ -26,8 +26,6 @@
   - [Switch Statements](#switch-statements)
   - [Language](#language)
   - [Copyright Statement](#copyright-statement)
-  - [Smiley Face](#smiley-face)
-  - [Credits](#credits)
 
 # The Official ARway C# Style Guide
 
